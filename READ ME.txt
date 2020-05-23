@@ -1,0 +1,6 @@
+This is a web app that allows users to register, and roles and assigned by the admin, 
+also has a  phone inventory side where products can be added, updated or deleted.
+program has authorization and authenication as well and a customized error page along with validations. 
+
+change connection strings
+and run migration update 
